@@ -34,6 +34,10 @@ All implementations are written from scratch using NumPy + Pillow, without deep 
 > ```bash
 > pip install numpy pillow opencv-python
 > ```
+>
+> ```bash
+> git clone https://github.com/NilsBrfd/Image-Quilting-for-Texture-Synthesis-and-Transfer
+> ```
 
 ---
 
