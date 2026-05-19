@@ -116,7 +116,7 @@ From these images:
 
 <p align="center">
   <img src="data/target_images/pear.jpg" width="200"/>
-  <img src="data/source_textures/cells.jpg" width="200"/>
+  <img src="data/source_images/cells.jpg" width="200"/>
 </p>
 
 to this result:
